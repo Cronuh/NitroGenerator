@@ -12,7 +12,7 @@ except:
     print('Error, Set Characters, Threads And List Proxys!!!')
     exit()
 
-proxys = open(proxys, 'r')
+proxys = open(proxys, r"D:\\GitHub\\NitroGenerator\\discord")
 proxys = proxys.readlines()
 
 
